@@ -45,6 +45,9 @@ Lawyers and paralegals can:
 - Get concise summaries for quick review.
 - Archive and retrieve summaries using the SQLite DB.
 
+## Screenshot:
+![Text_ss](https://github.com/Vaishnavi26-Kasture/Voice_Text-Summarizer-Web-App/blob/main/Text_ss.jpeg?raw=true)
+
 
 
 
