@@ -17,7 +17,6 @@ This is a Streamlit-based web application that records voice input, transcribes 
 - SpeechRecognition
 - Hugging Face Transformers
 - SQLite
-- Pillow (PIL)
 
 ## 🧠 Real-Time Use Cases of the Voice Summarizer App
 
