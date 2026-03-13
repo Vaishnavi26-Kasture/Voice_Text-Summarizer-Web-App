@@ -1,0 +1,7 @@
+streamlit
+speechrecognition
+transformers
+torch
+pandas
+pillow
+pyaudio
